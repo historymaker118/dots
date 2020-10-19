@@ -1,0 +1,61 @@
+sw_volume: 96
+audio_device_state:1:pulse audio
+audio_device_state:1:toggle_visualizer
+state: pause
+current: 41
+time: 125.795000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Poets of the Fall/Carnival of Rust.mp3
+1:Awake! Awake!/01 The Dawn.mp3
+2:Awake! Awake!/02 Daylight.mp3
+3:Awake! Awake!/03 Ocean.mp3
+4:Awake! Awake!/04 Quickly I Take My Time.mp3
+5:Awake! Awake!/05 Of Architects and Entropy.mp3
+6:Awake! Awake!/06 All I hold.mp3
+7:Awake! Awake!/07 The Fall_The Flight.mp3
+8:Awake! Awake!/08 The Coming Night.mp3
+9:Awake! Awake!/09 Daylight Outro.mp3
+10:Awake! Awake!/01 The Dawn.mp3
+11:Awake! Awake!/02 Daylight.mp3
+12:Awake! Awake!/03 Ocean.mp3
+13:Awake! Awake!/04 Quickly I Take My Time.mp3
+14:Awake! Awake!/05 Of Architects and Entropy.mp3
+15:Awake! Awake!/06 All I hold.mp3
+16:Awake! Awake!/07 The Fall_The Flight.mp3
+17:Awake! Awake!/08 The Coming Night.mp3
+18:Awake! Awake!/09 Daylight Outro.mp3
+19:Awake! Awake!/01 Colors.mp3
+20:Awake! Awake!/02 Distance.mp3
+21:Awake! Awake!/03 Firing Squad.mp3
+22:Awake! Awake!/04 True North.mp3
+23:Awake! Awake!/05 Sight.mp3
+24:Awake! Awake!/06 Silhouette.mp3
+25:Awake! Awake!/07 Harbor Lights.mp3
+26:Awake! Awake!/08 Open The Door.mp3
+27:Awake! Awake!/09 Stone Countenance.mp3
+28:Awake! Awake!/10 Disarmed.mp3
+29:Awake! Awake!/11 Nemesis.mp3
+30:Awake! Awake!/12 Red.mp3
+31:Awake! Awake!/13 Daylight Outro (Bonus Track).mp3
+32:Awake! Awake!/14 Disarmed (Acoustic).mp3
+33:Awake! Awake!/15 Red (Acoustic).mp3
+34:Awake! Awake!/16 Harbor Lights (Acoustic).mp3
+35:Awake! Awake!/01 Heart On Fire.mp3
+36:Awake! Awake!/02 Restless.mp3
+37:Awake! Awake!/03 Taken.mp3
+38:Awake! Awake!/04 A Sweet Economy.mp3
+39:Awake! Awake!/05 Tomorrows.mp3
+40:Awake! Awake!/06 Clever Spies.mp3
+41:Awake! Awake!/07 Equations.mp3
+42:Awake! Awake!/08 We Were Home.mp3
+43:Awake! Awake!/01 Heart On Fire (Acoustic).mp3
+44:Awake! Awake!/02 Restless (Acoustic).mp3
+45:Awake! Awake!/03 Taken (Acoustic).mp3
+playlist_end
